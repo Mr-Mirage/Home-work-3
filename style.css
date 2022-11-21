@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ .a{
+    text-align: center;
+    background-color: rgb(102, 136, 182);
+    color: rgb(210, 180, 180);
+    height: 75px;
+    padding: 20px;
+}
+
+.link, a{
+    background-color: rgb(67, 63, 63);
+    color: wheat;
+    padding: 8px;
+    height: 40px;
+    text-decoration: none;
+} 
+
+.me{
+    background-color: rgba(181, 175, 175, 0.488);
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+}
+
+.block1, .block2, .block3, .block4, .block5, .block6, .block7, .block8, .block9{
+    margin-left: 10px;
+}
+.block3, .me1{
+    width: 98%;
+    padding-top: 10px;
+}
+
+.block7, .block8, .block9, img{
+    width: 98%;    
+    padding-top: 5px;
+}
+
+
+
+.block9{
+    padding-bottom: 100px;
+}
+.block1{
+    font-weight:bolder;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.block5{
+    font-weight: bolder;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.title{
+    padding-left: 25px;
+    position: absolute;
+    width: 70%;
+    top:19%;
+    left: 30%;    
+}
+
+.right1, .right6{
+    font-weight: bold;
+    padding-top: 7px;
+    padding-bottom: 10px;
+}
+
+.right5, .right10{
+    padding-bottom: 50px;
+}
+
+footer{
+    text-align: center;
+    font-weight: bold;
+    background-color: rgb(159, 156, 156);
+    height: 30px;
+    position: fixed;
+    width: 100%;
+    bottom: 0%;
+    padding: 5px;
+}
+
+
+
+
